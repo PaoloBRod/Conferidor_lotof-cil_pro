@@ -1,0 +1,5 @@
+{
+  "name": "Lotofácil Conferidor Pro",
+  "description": "Uma ferramenta avançada para conferência de jogos da Lotofácil através de leitura de imagens (OCR) com IA, permitindo upload ou colagem direta da área de transferência. O sistema identifica o concurso, busca dados oficiais e calcula automaticamente acertos e premiações.",
+  "requestFramePermissions": []
+}
